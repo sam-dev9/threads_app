@@ -160,5 +160,5 @@
   @apply rounded-3xl bg-primary-500 px-8 py-2 !text-small-regular text-light-1 max-xs:w-full !important;
 }
 .cl-internal-11lqcp9 , .cl-internal-b3fm6y{
-  display: none;
+  @apply hidden
 }

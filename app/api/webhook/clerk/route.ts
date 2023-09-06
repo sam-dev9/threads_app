@@ -89,6 +89,7 @@ export const POST = async (request: Request) => {
       );
     }
   }
+  
 
   // Listen organization invitation creation event.
   // Just to show. You can avoid this or tell people that we can create a new mongoose action and
